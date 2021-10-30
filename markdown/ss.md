@@ -1,0 +1,3 @@
+![Menampilkan list film yang sedang tayang](https://media.discordapp.net/attachments/819585683811074058/903880130819141672/1.png?width=1178&height=662)
+![Menampilkan list film yang akan tayang](https://media.discordapp.net/attachments/819585683811074058/903880138775752704/2.png?width=1178&height=662)
+![Menampilkan deskripsi film ketika nama diclick](https://media.discordapp.net/attachments/819585683811074058/903880139874639872/3.png?width=1178&height=662)

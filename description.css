@@ -1,0 +1,29 @@
+body {
+    font-family: Helvetica, sans-serif;
+    background-color: #000000;
+}
+
+.info{
+    margin-left: 10vw;
+    margin-top: 15vw;
+    justify-content: center;
+    display: flex;
+    gap: 4vw;
+    width: 75vw;
+  }
+
+  .info .des h1 {
+    text-align: center;
+    color: #ececec;
+    font-size: xx-large;
+  }
+  .info .des h2 {
+    text-align: justify;
+    color: #ececec;
+    font-size: larger;
+  }
+  .info .des h3 {
+    text-align: right;
+    color: #ececec;
+    font-size: larger;
+  }
